@@ -91,9 +91,9 @@ Results to be added after analysis.
 
 ## Interactive Map
 
-![Healthcare accessibility map](https://si187971-dev.github.io/accessibility/outputs/maps/accessibility_overview.png)
+![Healthcare accessibility map](https://si187971-dev.github.io/Healthcare-Accessibility-Analysis/outputs/maps/accessibility_overview.png)
 
-[Open interactive accessibility map](https://si187971-dev.github.io/accessibility/outputs/accessibility_map.html)
+[Open interactive accessibility map](https://si187971-dev.github.io/Healthcare-Accessibility-Analysis/outputs/accessibility_map.html)
 
 The Folium map includes switchable layers showing healthcare facilities, walking accessibility zones, residential buildings classified by travel time and residential areas outside the coverage zones.
 
